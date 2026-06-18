@@ -1,8 +1,5 @@
 # 🏨 Hotel Management Database System
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/Its-Fate/hotel-management-db)](https://github.com/Its-Fate/hotel-management-db)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A fully normalized **Microsoft SQL Server** database design for managing a multi-hotel chain, featuring operational data (guests, rooms, reservations, employees, services) and built-in business intelligence views for revenue tracking, guest loyalty, and room type performance.
 
 ---
@@ -98,7 +95,7 @@ The database includes 3 pre-built analytical reports plus 3 views:
 ---
 
 ## 🖼️ ERD
-https://Docs/ERD.png
+![ER Diagram](./Docs/ERD.png)
 
 ---
 
